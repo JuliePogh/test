@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background:rgb(246, 180, 191);
+	padding: 35px;
+	color: #fff;
+	font-family: tahoma;
+}
+
+#box {
+	max-width: 200px;
+	max-height: 200px;
+	background:rgb(223, 185, 191)
+
+
+}
+
+h1 {
+	letter-spacing: 2px;
+}
